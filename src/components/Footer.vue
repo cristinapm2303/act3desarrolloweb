@@ -1,6 +1,6 @@
 <template>
   <footer>
-    <p>© 2025 Mi Equipo</p>
+    <p>© 2025 Actividad 3 - Desarrollo Web con Frameworks Front-end</p>
   </footer>
 </template>
 

@@ -1,0 +1,16 @@
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.nav-links a {
+  color: #646cff;
+  text-decoration: none;
+}

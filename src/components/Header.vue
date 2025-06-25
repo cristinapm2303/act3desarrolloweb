@@ -1,6 +1,6 @@
 <template>
   <header>
-    <h1>Mi Aplicación en Vue</h1>
+    <h1>VueAPP</h1>
     <nav>
       <router-link to="/">Inicio</router-link> |
       <router-link to="/usuarios">Usuarios</router-link> |

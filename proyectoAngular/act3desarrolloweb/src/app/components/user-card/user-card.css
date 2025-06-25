@@ -1,0 +1,10 @@
+.user-card {
+  background-color: #1a1a1a;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 0.5rem auto;
+  width: 300px;
+  color: white;
+  text-align: left;
+}

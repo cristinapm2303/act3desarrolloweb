@@ -1,0 +1,5 @@
+<div class="form-container">
+  <h2>Formulario</h2>
+  <input [value]="nombre" (input)="onInput($event)" placeholder="Escribe tu nombre" />
+  <p>Hola, {{ nombre.toUpperCase() }}</p>
+</div>
